@@ -1,0 +1,4 @@
+abdullahasif,456789,teacher,1001
+alikhan,dolnkdq456,student,1001
+Valkyrie,whvw,teacher,101
+Valkyrie,whvw,teacher,102
